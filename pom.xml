@@ -229,7 +229,7 @@
                         <!--<version>2.9.1</version>-->
                         <!--<dependencies>-->
                             <!--<dependency>-->
-                                <!--<groupId>com.wakaleo.gameoflife</groupId>-->
+                                <!--<groupId>com.wakaleo.gameoflife1</groupId>-->
                                 <!--<artifactId>gameoflife-build</artifactId>-->
                                 <!--<version>${project.version}</version>-->
                             <!--</dependency>-->
@@ -372,7 +372,7 @@
                         </configuration>
                         <dependencies>
                             <dependency>
-                                <groupId>com.wakaleo.gameoflife</groupId>
+                                <groupId>com.wakaleo.gameoflife1</groupId>
                                 <artifactId>gameoflife-build</artifactId>
                                 <version>${project.version}</version>
                             </dependency>
