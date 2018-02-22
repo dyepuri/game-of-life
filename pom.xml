@@ -411,7 +411,7 @@
                         <version>2.1.1</version>
                         <dependencies>
                             <dependency>
-                                <groupId>com.wakaleo.gameoflife</groupId>
+                                <groupId>com.wakaleo.gameoflife1</groupId>
                                 <artifactId>gameoflife-build</artifactId>
                                 <version>${project.version}</version>
                             </dependency>
