@@ -3,10 +3,10 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <artifactId>gameoflife</artifactId>
-        <groupId>com.wakaleo.gameoflife</groupId>
+        <groupId>com.wakaleo.gameoflife1</groupId>
         <version>0.0.56-SNAPSHOT</version>
     </parent>
-    <groupId>com.wakaleo.gameoflife</groupId>
+    <groupId>com.wakaleo.gameoflife1</groupId>
     <artifactId>gameoflife-deploy</artifactId>
     <packaging>pom</packaging>
     <build>
